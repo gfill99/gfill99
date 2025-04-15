@@ -2,8 +2,8 @@
 
 ### Desenvolvedor de Software
 
-Me chamo Gabriel, tenho 26 anos e sou natural de São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas pela UNINOVE e atualmente estou cursando um MBA em Engenharia de Software pela USP/ESALQ.
-Tenho grande interesse nas áreas de análise de dados e inteligência artificial, onde venho desenvolvendo projetos práticos para aprofundar meus conhecimentos.
+Me chamo Gabriel, tenho 26 anos e sou de São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas pela UNINOVE e atualmente estou cursando MBA em Engenharia de Software pela USP/ESALQ.
+Tenho grande interesse nas áreas de análise de dados e inteligência artificial, onde venho me aperfeiçoando com projetos práticos para aprofundar meus conhecimentos.
 
 <h3 align="left">Meus contatos</h3>
 
