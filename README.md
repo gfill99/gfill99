@@ -1,6 +1,6 @@
 ## 👨🏽‍💻 Gabriel Fill 👋
 
-**`Desenvolvedor de Software`**
+### Desenvolvedor de Software
 
 Me chamo Gabriel, tenho 26 anos e sou natural de São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas pela UNINOVE e atualmente estou cursando um MBA em Engenharia de Software pela USP/ESALQ.
 Tenho grande interesse nas áreas de análise de dados e inteligência artificial, onde venho desenvolvendo projetos práticos para aprofundar meus conhecimentos.
